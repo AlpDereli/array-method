@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\array method\bin\Debug\net7.0\array method.exe
+C:\Users\HP\Desktop\patika\array method\bin\Debug\net7.0\array method.deps.json
+C:\Users\HP\Desktop\patika\array method\bin\Debug\net7.0\array method.runtimeconfig.json
+C:\Users\HP\Desktop\patika\array method\bin\Debug\net7.0\array method.dll
+C:\Users\HP\Desktop\patika\array method\bin\Debug\net7.0\array method.pdb
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.dll
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\refint\array method.dll
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.pdb
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\array method.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\array method\obj\Debug\net7.0\ref\array method.dll
